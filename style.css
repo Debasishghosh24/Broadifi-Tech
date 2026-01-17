@@ -396,7 +396,7 @@ nav a {
 }
 
 .work-Wrapper{
-    height: 150vh;
+    height: 170vh;
 }
 
 .work-heading{
@@ -412,9 +412,9 @@ nav a {
 }
 
 .Experience-container, .Maritime-container, .DevOps-container{
-    margin-left: 58px;
-    margin-bottom: 55px;
-    padding-top: 81px;
+    margin-left: 78px;
+    margin-bottom: 4px;
+    padding-top: 10px;
 }
 
 .Experience span{
